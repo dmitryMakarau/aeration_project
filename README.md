@@ -29,12 +29,6 @@ Results will be updated as analysis progresses
 | G | OPEX: discharge fee, scenario analysis | ⏳ |
 | H | GPS-X fractionation + CapdetWorks economic evaluation | ⏳ |
 
-## Quick start
-```
-pip install -r requirements.txt
-streamlit run streamlit_app/app.py
-```
-
 **Live dashboard:** [link when deployed]
 
 ## Data
