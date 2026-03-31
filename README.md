@@ -1,18 +1,18 @@
 # Aeration Tank Process Monitor
 **Industrial biological wastewater treatment — two-stage activated sludge**
-PET/PETF production · Q ≈ 250 m³/h · Total HRT ≈ 80 h · Surface mechanical aerators
+Chemical manufacturing facility  · Q ≈ 250 m³/h · Total HRT ≈ 80 h · Surface mechanical aerators
 ## Project overview
 This project applies data-driven process engineering to operational data
-from a two-stage activated sludge system treating PET/PETF wastewater.
+from a two-stage activated sludge system treating industrial wastewater from chemical production.
 
 The methodology builds on statistical approaches from Makarau (2019) PhD thesis
 (municipal groundwater monitoring) and extends them with industrial SPC methods.
 
 **Monitoring points:**
 | Point | Description |
-| S10   | Inlet to stage 1 aeration tank |
-| S23   | After stage 1 + secondary clarifier |
-| S36   | After stage 2 + secondary clarifier (final effluent) |
+| S0   | Inlet to stage 1 aeration tank |
+| S1   | After stage 1 + secondary clarifier |
+| S2   | After stage 2 + secondary clarifier (final effluent) |
 
 ## Key findings
 Results will be updated as analysis progresses
