@@ -1,9 +1,10 @@
 # Aeration Tank Process Monitor
 **Industrial biological wastewater treatment — two-stage activated sludge**
-Chemical manufacturing facility  · Q ≈ 250 m³/h · Total HRT ≈ 80 h · Surface mechanical aerators
+Chemical manufacturing facility  · Q ≈ 210 m³/h · Total HRT ≈ 80 h · Surface mechanical aerators
 ## Project overview
 This project applies data-driven process engineering to operational data
 from a two-stage activated sludge system treating industrial wastewater from chemical production.
+⚠️ Data notice: All data used in this repository are synthetic and anonymized. They preserve the statistical properties, correlations, and temporal patterns of real industrial measurements but contain no actual plant-confidential information. Results are for methodological demonstration only.
 
 The methodology builds on statistical approaches from Makarau (2019) PhD thesis
 (municipal groundwater monitoring) and extends them with industrial SPC methods.
@@ -32,7 +33,9 @@ Results will be updated as analysis progresses
 **Live dashboard:** [link when deployed]
 
 ## Data
-Data not included due to confidentiality (industrial operational data).
+**Not real — statistically preserved synthetic dataset.**
+
+To enable open sharing while respecting industrial confidentiality, the original operational data were transformed into an anonymized synthetic version using a privacy-preserving generation method.
 
 ## Methods
 Statistical SPC: X-MR Shewhart, CUSUM, EWMA, Cp/Cpk
